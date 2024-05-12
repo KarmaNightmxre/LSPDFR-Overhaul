@@ -203,3 +203,13 @@ https://www.lcpdfr.com/downloads/gta5mods/scripts/29467-yobbin-callouts/
 
 Kuchera Callouts
 https://www.lcpdfr.com/downloads/gta5mods/scripts/43310-kuchera-callouts/
+
+---
+
+**Extra:**
+
+Immersive GTAV Intro
+https://www.gta5-mods.com/misc/immersive-gtav-intro
+
+Immersive GTAV Loading Screen
+https://www.gta5-mods.com/misc/immersive-gtav-loading-screen
