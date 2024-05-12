@@ -211,5 +211,5 @@ https://www.lcpdfr.com/downloads/gta5mods/scripts/43310-kuchera-callouts/
 Immersive GTAV Intro
 https://www.gta5-mods.com/misc/immersive-gtav-intro
 
-Immersive GTAV Loading Screen
+Immersive GTAV Loading Screen (do not use custom loading screen from RAGE Plugin Hook)
 https://www.gta5-mods.com/misc/immersive-gtav-loading-screen
