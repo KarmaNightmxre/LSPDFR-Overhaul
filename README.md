@@ -40,14 +40,14 @@ https://www.lcpdfr.com/downloads/gta5mods/scripts/42767-damage-tracker-framework
 
 STP (Stop The Ped)
 https://www.bejoijo.com/post/stop-the-ped
-https://www.lcpdfr.com/downloads/gta5mods/datafile/45578-search-items-reborn/
+| https://www.lcpdfr.com/downloads/gta5mods/datafile/45578-search-items-reborn/
 
 Ultimate Backup
 https://www.bejoijo.com/post/ultimate-backup
 
 Compu-Lite
 https://www.bejoijo.com/post/compulite
-https://www.lcpdfr.com/downloads/gta5mods/datafile/24051-realistic-usable-charges-citations-for-compulite/
+| https://www.lcpdfr.com/downloads/gta5mods/datafile/24051-realistic-usable-charges-citations-for-compulite/
 
 ALPR Lite
 https://www.bejoijo.com/post/alprlite
@@ -125,6 +125,7 @@ https://www.lcpdfr.com/downloads/gta5mods/scripts/40964-clipboard-and-notepad/
 
 VisualVanilla
 https://www.gta5-mods.com/misc/visualvanilla
+| https://www.gta5-mods.com/misc/vanilla-vehicles-emissives-fix (fixes things like bright taxi ads) 
 
 City Lights
 https://www.gta5-mods.com/maps/citylights-v1-visualparadox
