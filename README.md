@@ -89,7 +89,7 @@ https://www.lcpdfr.com/downloads/gta5mods/scripts/16144-ambient-fx/
 
 ---
 
-Mods:
+Graphics:
 
 VisualVanilla
 https://www.gta5-mods.com/misc/visualvanilla
@@ -131,4 +131,43 @@ https://www.gta5-mods.com/vehicles/los-santos-county-sheriff-department-pack
 F550 Wrecker and Flatbed (Lore-Friendly)
 https://www.lcpdfr.com/downloads/gta5mods/vehiclestextures/14858-aaa-caa-lore-friendly-for-f550-wrecker-and-flatbed/
 
+Drive V
+https://www.gta5-mods.com/vehicles/drive-v-realistic-driving-car-handling
+
 ---
+
+Weapons:
+
+Realistic Guns Sounds
+https://www.gta5-mods.com/weapons/realistic-weapons-sounds
+
+Tactical M4A1 CQB
+https://www.gta5-mods.com/weapons/tactical-m4a1-cqb
+
+Max Payne 3 Glock [Animated]
+https://www.gta5-mods.com/weapons/max-payne-3-glock-for-v-animated
+
+---
+
+Callouts
+
+BLK Highway
+https://www.lcpdfr.com/downloads/gta5mods/scripts/37389-blk-highway-callouts/
+
+Forestry
+https://www.lcpdfr.com/downloads/gta5mods/scripts/34663-forestry-callouts/
+
+SuperCallouts
+https://www.lcpdfr.com/downloads/gta5mods/scripts/23995-supercallouts/
+
+686 Callouts
+https://www.lcpdfr.com/downloads/gta5mods/scripts/37390-686-callouts/
+
+[MM] City Nightz Callouts
+https://www.lcpdfr.com/downloads/gta5mods/misc/37846-mm-city-nightz-callouts/
+
+Yobbin Callouts
+https://www.lcpdfr.com/downloads/gta5mods/scripts/29467-yobbin-callouts/
+
+Kuchera Callouts
+https://www.lcpdfr.com/downloads/gta5mods/scripts/43310-kuchera-callouts/
