@@ -50,6 +50,9 @@ https://www.bejoijo.com/post/alprlite
 Speed Radar Lite
 https://www.bejoijo.com/post/speed-radar-lite
 
+Callout Interface
+https://www.lcpdfr.com/downloads/gta5mods/scripts/37828-callout-interface/
+
 ---
 
 Plugins:
