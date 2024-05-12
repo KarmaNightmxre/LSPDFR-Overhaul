@@ -87,6 +87,9 @@ https://www.lcpdfr.com/downloads/gta5mods/scripts/27954-scene-manager/
 Ambient FX
 https://www.lcpdfr.com/downloads/gta5mods/scripts/16144-ambient-fx/
 
+No Officer Profanity
+https://www.lcpdfr.com/downloads/gta5mods/audio/41845-no-officer-profanity-now-with-two-options/
+
 ---
 
 Graphics:
