@@ -1,3 +1,5 @@
+**DISCLAIMER: I do not own or take ownership for any of these mods**
+
 Essentials:
 
 Script Hook V
