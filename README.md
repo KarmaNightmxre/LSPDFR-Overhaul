@@ -161,9 +161,6 @@ https://www.gta5-mods.com/vehicles/lspd-lssd-pack
 LSSD Pack
 https://www.gta5-mods.com/vehicles/los-santos-county-sheriff-department-pack
 
-F550 Wrecker and Flatbed (Lore-Friendly)
-https://www.lcpdfr.com/downloads/gta5mods/vehiclestextures/14858-aaa-caa-lore-friendly-for-f550-wrecker-and-flatbed/
-
 Drive V
 https://www.gta5-mods.com/vehicles/drive-v-realistic-driving-car-handling
 
