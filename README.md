@@ -1,6 +1,8 @@
-**DISCLAIMER: I do not own or take ownership for any of these mods**
+***DISCLAIMER: I do not own or take ownership for any of these mods***
 
-Essentials:
+---
+
+**Essentials:**
 
 Script Hook V
 http://www.dev-c.com/gtav/scripthookv/
@@ -34,7 +36,7 @@ https://www.lcpdfr.com/downloads/gta5mods/scripts/42767-damage-tracker-framework
 
 ---
 
-Main Plugins:
+**Main Plugins:**
 
 STP (Stop The Ped)
 https://www.bejoijo.com/post/stop-the-ped
@@ -58,7 +60,7 @@ https://www.lcpdfr.com/downloads/gta5mods/scripts/37828-callout-interface/
 
 ---
 
-Plugins:
+**Plugins:**
 
 Simple CTRL
 https://www.lcpdfr.com/downloads/gta5mods/scripts/43666-simplectrl/
@@ -119,7 +121,7 @@ https://www.lcpdfr.com/downloads/gta5mods/scripts/40964-clipboard-and-notepad/
 
 ---
 
-Graphics:
+**Graphics:**
 
 VisualVanilla
 https://www.gta5-mods.com/misc/visualvanilla
@@ -150,7 +152,7 @@ https://www.lcpdfr.com/downloads/gta5mods/datafile/32429-eupfr-ultimate-edition/
 
 ---
 
-Vehicles: 
+**Vehicles:** 
 
 LSPD Pack
 https://www.gta5-mods.com/vehicles/lspd-lssd-pack
@@ -179,7 +181,7 @@ https://www.gta5-mods.com/weapons/max-payne-3-glock-for-v-animated
 
 ---
 
-Callouts
+**Callouts:**
 
 BLK Highway
 https://www.lcpdfr.com/downloads/gta5mods/scripts/37389-blk-highway-callouts/
