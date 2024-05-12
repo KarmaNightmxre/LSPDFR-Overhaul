@@ -43,6 +43,7 @@ https://www.bejoijo.com/post/ultimate-backup
 
 Compu-Lite
 https://www.bejoijo.com/post/compulite
+https://www.lcpdfr.com/downloads/gta5mods/datafile/24051-realistic-usable-charges-citations-for-compulite/
 
 ALPR Lite
 https://www.bejoijo.com/post/alprlite
@@ -92,6 +93,27 @@ https://www.lcpdfr.com/downloads/gta5mods/scripts/16144-ambient-fx/
 
 No Officer Profanity
 https://www.lcpdfr.com/downloads/gta5mods/audio/41845-no-officer-profanity-now-with-two-options/
+
+Riskier Traffic Stops
+https://www.lcpdfr.com/downloads/gta5mods/scripts/44036-riskier-traffic-stops/
+
+Immersive Ambient
+https://www.lcpdfr.com/downloads/gta5mods/scripts/44840-immersive-ambient-events/
+
+Plain Sight (Observation System)
+https://www.lcpdfr.com/downloads/gta5mods/scripts/39797-plain-sight-observation-system/
+
+RAGEuphoria
+https://www.gta5-mods.com/misc/rageuphoria
+
+Ransom Ambience
+https://www.lcpdfr.com/downloads/gta5mods/scripts/44858-ransom-ambience/
+
+Combat Enhanced
+https://www.lcpdfr.com/downloads/gta5mods/scripts/46313-combat-enhanced/
+
+Clipboard & Notepad
+https://www.lcpdfr.com/downloads/gta5mods/scripts/40964-clipboard-and-notepad/
 
 ---
 
